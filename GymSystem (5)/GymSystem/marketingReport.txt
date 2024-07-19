@@ -1,0 +1,45 @@
+Polytechnic Staff:
+Id: 1000
+Name: Mohammed Ali
+Address: Apt56, Road 2367, AlAhli
+Phone: 123456
+Position: IT Tutor
+Department: ICT dept
+
+Id: 1002
+Name: Mohammed Abdulla
+Address: Apt78, Road 1285, Hamad Town
+Phone: 123456
+Position: Management Tutor
+Department: Business dept
+
+Id: 1003
+Name: Maryam Ahmed
+Address: Apt34, Road 2467, Juffair
+Phone: 167459
+Position: English Tutor
+Department: English dept
+
+Id: 1005
+Name: Ali Mohammed
+Address: Apt21, Road 1398, Adliya
+Phone: 452863
+Position: Marketing Tutor
+Department: Business dept
+
+Id: 1007
+Name: Ahmed Ali
+Address: Apt15, Road 2598, Budaiya
+Phone: 167863
+Position: IT Tutor
+Department: ICT dept
+
+Id: 1009
+Name: Ahmed Abdulla
+Address: Apt85, Road 1787, Juffair
+Phone: 145853
+Position: Logistics Tutor
+Department: Logistics dept
+
+Total staff: 6
+
